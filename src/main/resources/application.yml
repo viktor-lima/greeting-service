@@ -7,3 +7,6 @@ spring:
   cloud:
     config:
       enabled: false
+greeting-service:
+  greeting: "Olá"
+  default-value: "Mundo"
